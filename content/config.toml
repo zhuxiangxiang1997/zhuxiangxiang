@@ -15,7 +15,7 @@ avatar = "/bio.jpg"
 
 email = "john.doe@example.com"
 location = "City, Country"
-location_url = "https://maps.google.com"
+location_url = "https://zhuxiangxiang.github"
 location_details = [
   "Room 123, Science Building,",
   "University Avenue, City, Country"
